@@ -14,22 +14,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
-  openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-  },
+  title: "Priyanshu Agarwal - Agentic AI Engineer",
+  description:
+    "Building intelligent agent systems & software. Specialized in Agentic AI and Python engineering with 2+ years of experience.",
+  keywords: [
+    "Agentic AI",
+    "Python",
+    "Software Engineer",
+    "Portfolio",
+    "AI Agent",
+    "RAG",
+    "Multi-agent Systems",
+  ],
+  authors: [{ name: "Priyanshu Agarwal" }]
 };
 
 export default function RootLayout({
